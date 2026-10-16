@@ -318,7 +318,6 @@ R = [
     ('re', r'<span class="pc-chip st-open">Open positions: ([^<]*?) authors?</span>',
      lambda m: '<span class="pc-chip st-open">可预订：第 ' + '、'.join(re.findall(r'\d+', m.group(1))) + ' 作者</span>'),
     ('</svg>Booked: all six author positions</li>', '</svg>已预订：全部六个作者位置</li>'),
-    ('<b style="text-decoration:none">To be announced</b><small>An IEEE conference, confirmed with the author team</small>', '<b style="text-decoration:none">待定</b><small>IEEE 会议，将与作者团队确认</small>'),
     ('<small>Dermoscopic skin lesion analysis</small>', '<small>皮肤镜皮肤病变分析</small>'),
     ('<span>Polyp classification</span>', '<span>息肉分类</span>'),
     ('<span>CNN–transformer fusion</span>', '<span>CNN 与 Transformer 融合</span>'),
