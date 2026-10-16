@@ -607,6 +607,10 @@ R = [
 
     # ---------- footer ----------
     ('Copyright 2026 Research &amp; Scholarly Support. All rights reserved.', '版权所有 © 2026 Research &amp; Scholarly Support。保留所有权利。'),
+    ('re', r' Last updated <time datetime="([\d-]+)">(\d+) (\w+) (\d{4})</time>\.',
+     lambda m: f'最后更新：<time datetime="{m.group(1)}">{m.group(4)} 年 {"JanFebMarAprMayJunJulAugSepOctNovDec".index(m.group(3)[:3]) // 3 + 1} 月 {m.group(2)} 日</time>。'),
+    ('Research supervision and publication guidance: IEEE conference and Q1 journal papers, thesis to publication, ready-to-submit projects with open author positions.',
+     '科研指导与论文发表服务：IEEE 会议论文与 Q1 期刊论文、学位论文转化发表，以及仍有作者空位的待投稿项目。'),
 
     # ---------- script strings ----------
     ("h1.innerHTML = h1.textContent.trim().split(/\\s+/).map((w) => '<span class=\"w\">' + w + '</span>').join(' ');",
