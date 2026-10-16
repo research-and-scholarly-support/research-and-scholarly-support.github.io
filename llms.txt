@@ -1,0 +1,47 @@
+# Research & Scholarly Support
+
+> Research supervision and publication guidance for students and early-career researchers in Bangladesh, China and worldwide. We supervise research studies, turn completed theses into IEEE conference and Q1 journal papers, and support submission and revision. There is no advance payment; fees are agreed in writing and paid only after acceptance. Acceptance is always decided by peer review.
+
+Research supervised by our team has produced 21 published papers, including 12 in Elsevier journals and 8 on IEEE Xplore, with more than 1,600 citations (OpenAlex, October 2026). Co-authors come from 32 universities in 5 countries.
+
+## Services
+
+- [Join a ready-to-submit project](https://research-and-scholarly-support.github.io/#available): join an IEEE conference paper at its final stage, contribute to the remaining work under supervision, and be credited according to your contribution and the venue's authorship policy. Booking a position is free.
+- [Join a project from the start](https://research-and-scholarly-support.github.io/#services): reserve a seat on a new supervised study and contribute across literature review, data, experiments, analysis and writing.
+- [Thesis to publication](https://research-and-scholarly-support.github.io/#services): turn a completed thesis or dissertation into a journal article or conference paper, with supervision for restructuring, editing, venue selection and submission.
+
+## Research domains
+
+Medical image analysis; clinical and health data science; biomedical signal processing; mental health and social analytics; computer vision and edge AI; explainable AI; natural language processing; environment, agriculture and remote sensing; forecasting and reliability.
+
+## Published papers from supervised research
+
+- [A Hybrid DenseNet–Vision Transformer Framework for Diabetic Retinopathy Classification](https://ieeexplore.ieee.org/abstract/document/11647987/), 2026 International Conference on Cybersecurity, Digital Forensics, and AI Applications (ICCSDFAI)
+- [A Hybrid Dual-Backbone Deep Learning Framework for Lumbar Spinal Stenosis Classification from MRI with External Validation](https://ieeexplore.ieee.org/abstract/document/11647886/), 2026 International Conference on Cybersecurity, Digital Forensics, and AI Applications (ICCSDFAI)
+- [Multi-Class Retinal Disease Detection Using VGG-19 with K-Fold Cross-Validation](https://ieeexplore.ieee.org/abstract/document/11504292/), 2025 IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (BECITHCON)
+- [Machine Learning-Based Prediction of Maternal Continuum of Care Completion: Evidence from Bangladesh Demographic and Health Survey 2022](https://www.sciencedirect.com/science/article/pii/S2590005625002930), Array
+- [Ensemble Machine Learning with Limited Data: Feature Selection and Wheat Yield Prediction in Bangladesh](https://www.sciencedirect.com/science/article/pii/S2772375525009244), Smart Agricultural Technology
+- [CDFNet Based Fusion Network for Interpretable Alzheimer's Disease Prediction Using Hybrid Imaging and Clinical Meta-Ensemble Learning](https://ieeexplore.ieee.org/abstract/document/11461211/), 2026 IEEE 18th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering (TCSET)
+- [Predicting Super-Class Drug Mechanisms from Large-Scale IC50 Cell-Line Sensitivity Profiles](https://ieeexplore.ieee.org/abstract/document/11461133/), 2026 IEEE 18th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering (TCSET)
+- [Integrated Assessment of Environmental Sustainability and Urban Green Space Suitability Using PCA-AHP with Zonal Prioritization: A Remote Sensing and GIS Approach](https://www.sciencedirect.com/science/article/pii/S2665972725005148), Environmental and Sustainability Indicators
+- [Operationally Robust Machine Learning for Pre-Launch Missile Failure Prediction](https://ieeexplore.ieee.org/abstract/document/11352759/), 2025 IEEE International Conference on Agentic AI (ICA)
+- [From Short to Long-Term Horizons: Comparative Assessment of Machine Learning and Deep Learning for River Stage Prediction with Spatial Transferability Analysis](https://www.sciencedirect.com/science/article/pii/S2590123025042409), Results in Engineering
+- [Classification of Envisioned English Speech from EEG Using Deep Learning Approaches](https://www.sciencedirect.com/science/article/pii/S2666827025001355), Machine Learning with Applications
+- [Non-Gaussian Modeling of Sleep EEG Based on a Skewed Scale Mixture Structure and Its Application to Sleep Stage Analysis](https://www.sciencedirect.com/science/article/pii/S1746809425004586), Biomedical Signal Processing and Control
+- [Multi-Modal Predictive Modeling of Schizophrenia Severity: Leveraging Liver Function Indicators and Cognitive Scores with Random Forest and SVM](https://www.sciencedirect.com/science/article/pii/S0925492725000873), Psychiatry Research: Neuroimaging
+- [Hybrid Email Filtering Using TF-IDF and BERT Enhanced Spam Detector](https://ieeexplore.ieee.org/abstract/document/11160311/), 2025 2nd International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM)
+- [Preserving Medical Information from Doctor's Prescription Ensuring Relation Among the Terminology](https://www.sciencedirect.com/science/article/pii/S0010482525001623), Computers in Biology and Medicine
+- [Explainability Enhanced Liver Disease Diagnosis Technique Using Tree Selection and Stacking Ensemble-Based Random Forest Model](https://www.sciencedirect.com/science/article/pii/S2949953425000025), Informatics and Health
+- [Mental Health Evaluation During Internet Blackouts: A Machine Learning Approach](https://ieeexplore.ieee.org/abstract/document/10916372/), International Conference on Green Energy, Computing and Intelligent Technology (GEn-CITy 2024)
+- [An Artificial Intelligence Multitier System with Lightweight Classifier for Automated Helmetless Biker Detection](https://www.sciencedirect.com/science/article/pii/S2772662224001309), Decision Analytics Journal
+- [Analyzing Financial Stress and Its Impact on Mental Health Among Bangladeshi Undergraduate Students Using SPSS and SmartPLS](https://dspace.bracu.ac.bd/items/8af00d7c-3b9f-4567-9e58-3a44db76ecc1), BRAC University Institutional Repository
+- [Deep Neural Network Architectures for Cardiac Image Segmentation](https://www.sciencedirect.com/science/article/pii/S2667318523000272), Artificial Intelligence in the Life Sciences
+- [Deep Learning-Based Bangla Sign Language Detection with an Edge Device](https://www.sciencedirect.com/science/article/pii/S2667305323000492), Intelligent Systems with Applications
+
+## Contact
+
+- Email: researchscholarlysupport@gmail.com (best from China)
+- WhatsApp: +880 1410-723393
+- Website (English): https://research-and-scholarly-support.github.io/
+- Website (Simplified Chinese): https://research-and-scholarly-support.github.io/zh/
+- FAQ: https://research-and-scholarly-support.github.io/#faq
